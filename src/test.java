@@ -5,6 +5,7 @@ public class test {
 		//阿斯大时代\
 		
 		
+		sysout
 		
 		
 
